@@ -1,0 +1,21 @@
+body{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+table, th, td{
+border: 1px solid white;
+color: wheat;
+text-align: center;
+border-collapse: collapse;
+border-spacing: 30px;
+}
+
+td:nth-child(even), tr:nth-child(even){
+   background-color: saddlebrown;
+}
+th, td{
+   background-color: black;
+   border-color: rgb(77, 63, 61);
+   
+}
+ 
